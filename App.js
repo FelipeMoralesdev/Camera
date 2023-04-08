@@ -109,7 +109,7 @@ const styles = StyleSheet.create({
     backgroundColor:"#fff",
     margin:20, 
     height:50,
-    widht:50,
+    width:50,
     borderRadius: 50,
   },
   buttonCamera:{
@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
     backgroundColor:"red",
     margin:20, 
     height:50,
-    widht:50,
+    width:50,
     borderRadius: 50,
   },
   contentModal:{
